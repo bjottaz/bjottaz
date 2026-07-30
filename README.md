@@ -10,10 +10,10 @@
   <i><q><b>Transformar ideias em resultados práticos e ajudar pessoas:</b> esse é o meu verdadeiro motor.</q></i>
   <br>
   <br>
-  Sou <code>desenvolvedor backend</code> formado em Ciência da Computação com uma <u>forte veia empreendedora</u>. Para mim, a tecnologia vai muito além do código: ela é o motor que mudou a minha vida e a base dos negócios que quero construir. Gosto de trabalhar a mente pensando em <u>soluções que gerem impacto real</u>. Não escrevo código apenas pela tecnologia em si; <u>eu construo sistemas para resolver problemas e fazer projetos vencerem</u>.
+  Sou <code>programador</code> formado em Ciência da Computação com uma <u>forte veia empreendedora</u>. Para mim, a tecnologia vai muito além do código: ela é o motor que mudou a minha vida e a base dos negócios que quero construir. Gosto de trabalhar a mente pensando em <u>soluções que gerem impacto real</u>. Não escrevo código apenas pela tecnologia em si; <u>eu construo sistemas para resolver problemas e fazer projetos vencerem</u>.
   <br>
   <br>
-  No aspecto técnico, tenho experiência corporativa construindo APIs escaláveis com <code>PHP</code> e <code>Laravel</code>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <b>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</b>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
+  No aspecto técnico, tenho experiência corporativa como desenvolvedor construindo APIs escaláveis com <code>PHP</code> e <code>Laravel</code>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <b>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</b>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
 </div>
 <br>
 
