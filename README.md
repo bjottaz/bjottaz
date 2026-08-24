@@ -17,6 +17,8 @@
 </div>
 <br>
 
-### 💻 Linguagens & Tecnologias
+### ⚡Tecnologias
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=mysql,redis,grafana,postman,mongodb,git,github,docker)](https://skillicons.dev/)
 
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs,grafana,ts,postman,prisma,mongodb,git,github,docker)](https://skillicons.dev/)
+### 💻 Linguagens & Frameworks/Ecossistema
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,prisma)](https://skillicons.dev/)
