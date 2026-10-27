@@ -18,10 +18,10 @@
 <br>
 
 ### 💻 Principais Linguagens & Ecossistema
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,ts,nodejs)](https://skillicons.dev/)
+[![Minha Stack](https://skillicons.dev/icons?i=php,laravel,ts,nodejs)](https://skillicons.dev/)
 
 ### ⚡Tecnologias
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=aws,mysql,redis,mongodb,prometheus,grafana,postman,git,githubactions,docker,rabbitmq)](https://skillicons.dev/)
+[![Minha Stack](https://skillicons.dev/icons?i=aws,mysql,redis,mongodb,prometheus,grafana,postman,git,githubactions,docker,rabbitmq)](https://skillicons.dev/)
 
 ### 📚 Outras
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,java,py,js,prisma,vue,react,azure,postgres,sqlite,firebase&perline=6)](https://skillicons.dev/)
+[![Minha Stack](https://skillicons.dev/icons?i=cs,dotnet,java,py,js,prisma,vue,react,azure,postgres,sqlite,firebase)](https://skillicons.dev/)
