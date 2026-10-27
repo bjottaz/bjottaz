@@ -13,12 +13,15 @@
   Sou <code>engenheiro de software</code>, formado em Ciência da Computação com uma <u>forte veia empreendedora</u>. Para mim, a tecnologia vai muito além do código: ela é o motor que mudou a minha vida e a base dos negócios que quero construir. Gosto de trabalhar a mente pensando em <u>soluções que gerem impacto real</u>. Não escrevo código apenas pela tecnologia em si; <u>eu construo sistemas para resolver problemas e fazer projetos vencerem</u>.
   <br>
   <br>
-  No aspecto técnico, tenho experiência corporativa como desenvolvedor construindo APIs escaláveis com <code>PHP</code> e <code>Laravel</code>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <b>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</b>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
+  No aspecto técnico, tenho experiência corporativa como desenvolvedor focando na construção de APIs escaláveis com <code>Laravel (PHP)</code> e <code>Node.js (TypeScript)</code>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <b>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</b>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
 </div>
 <br>
 
-### ⚡Tecnologias
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=mysql,redis,grafana,postman,mongodb,git,github,docker)](https://skillicons.dev/)
+### 💻 Principais Linguagens & Ecossistema
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,ts,nodejs)](https://skillicons.dev/)
 
-### 💻 Linguagens & Frameworks/Ecossistema
-[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,prisma)](https://skillicons.dev/)
+### ⚡Tecnologias
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=aws,mysql,redis,mongodb,prometheus,grafana,postman,git,githubactions,docker,rabbitmq)](https://skillicons.dev/)
+
+### 📚 Outras
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,java,py,js,prisma,vue,react,azure,postgres,sqlite,firebase)](https://skillicons.dev/)
